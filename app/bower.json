@@ -1,0 +1,22 @@
+{
+  "name": "first gulp",
+  "homepage": "https://github.com/DavidSundland/gulpone",
+  "authors": [
+    "David Sundland <info@districtconcerts.com>"
+  ],
+  "description": "first gulp application",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "react": "^16.1.0",
+    "backbone": "^1.3.3"
+  }
+}
